@@ -11,6 +11,3 @@ Console.WriteLine("2!");
 Console.WriteLine("2!");
 Console.WriteLine("2!");
 
-//skdlfj
-//sdf
-//sdf
